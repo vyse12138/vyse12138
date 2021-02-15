@@ -57,7 +57,7 @@
 <br/>  
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=vyse12138&show_icons=true&count_private=true&hide_border=true"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=vyse12138&show_icons=true&count_private=true"/> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyse12138&hide=TeX&layout=compact"/> 
 
