@@ -1,5 +1,5 @@
  
-### Hi there, I'm Jake, 你也可以叫我小诸 👋
+## Hi there, I'm Jake, 你也可以叫我小诸 👋
   
 - Software Engineering Student 
 - Passionate for frontend development
