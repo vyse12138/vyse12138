@@ -5,8 +5,7 @@
 - Passionate for frontend development
 - Shanghai - Melbourne 
 - We love house music 🙌
-- [掘金](https://juejin.cn/user/1407794523416350/)
-  
+- 
 <br/> 
 
 ## My Skill Set  
