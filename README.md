@@ -5,7 +5,7 @@
 - Passionate for frontend development
 - Shanghai - Melbourne 
 - We love house music 🙌
-- 
+
 <br/> 
 
 ## My Skill Set  
