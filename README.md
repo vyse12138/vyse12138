@@ -1,5 +1,6 @@
  
-## Hi there, I'm Jake, 你也可以叫我小诸 👋
+## Hi there, I'm Jake, 你也可以叫我小诸 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+
   
 - Software Engineering Student 
 - Passionate for frontend development
