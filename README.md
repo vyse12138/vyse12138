@@ -1,6 +1,6 @@
 ## Hi there, I'm Yulei <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-I'm a student currently, with a degree in software engineering. Frontend development is what I'm passionate for.
+I'm a student, with a degree in software engineering. Frontend development is what I'm passionate for.
 
 If you happen to speak Chinese, you can also call me 小诸.
  
