@@ -40,7 +40,7 @@ If you happen to speak Chinese, you can also call me 小诸.
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=Vyse12138&layout=compact&theme=tokyonight&custom_title=Weekly Wakatime Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=Vyse12138"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=Vyse12138"/> -->
 
 <br/>
 
