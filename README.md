@@ -1,6 +1,6 @@
 ## Hi there, I'm Yulei <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-I'm a software engineering student from Swinburne, frontend development is what I'm passionate for.
+I'm a software engineering student from Swinburne, frontend development is what I'm passionate about.
 
 If you happen to speak Chinese, you can also call me 小诸.
 
@@ -34,7 +34,7 @@ If you happen to speak Chinese, you can also call me 小诸.
 
 ## My Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=vyse12138&show_icons=true&count_private=true&theme=tokyonight&custom_title=Yulei's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vyse12138&show_icons=true&count_private=true&theme=tokyonight"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyse12138&layout=compact&theme=tokyonight&card_width=445"/>
 
