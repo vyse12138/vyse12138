@@ -38,9 +38,7 @@ If you happen to speak Chinese, you can also call me 小诸.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyse12138&layout=compact&theme=tokyonight&card_width=445"/>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=Vyse12138&layout=compact&theme=tokyonight"/>
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=Vyse12138&custom_title=Weekly Wakatime Stats"/> -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vyse12138&layout=compact&theme=tokyonight&langs_count=8&hide=Other,JSX"/>
 
 <br/>
 
