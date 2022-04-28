@@ -1,11 +1,11 @@
 ## Hi there, I'm Yulei <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-I'm a software engineering student from Swinburne, frontend development is what I'm passionate about.
+I'm a bachelor of software engineering student from Swinburne Uni. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-If you happen to speak Chinese, you can also call me 小诸.
+You can find out more about me on my [homepage](https://yuleiz.com/).
 
-:D
- 
+If you happen to speak Chinese, you can also call me 小诸 (xiǎo zhū) and find me on [掘金](https://juejin.cn/user/1407794523416350/posts).
+
 <br/>
 
 ## My Skill Set
@@ -40,8 +40,5 @@ If you happen to speak Chinese, you can also call me 小诸.
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vyse12138&layout=compact&theme=tokyonight&langs_count=8&hide=Other,JSX" alt="Wakatime Stats"/>
 
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=Vyse12138&&style=flat-square" align="center" />
 
-<br/>
