@@ -1,6 +1,6 @@
 ## Hi there, I'm Yulei <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-I'm a bachelor of software engineering student from Swinburne Uni. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I'm a bachelor of software engineering student from Swinburne Uni. My passion for software lies with dreaming up ideas and making them come true with elegant interface and great code quality.
 
 You can find out more about me on my [homepage](https://yuleiz.com/).
 
