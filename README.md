@@ -4,7 +4,7 @@ I'm a bachelor of software engineering student from Swinburne Uni. My passion fo
 
 You can find out more about me on my [homepage](https://yuleiz.com/).
 
-If you happen to speak Chinese, you can also call me 小诸 (xiǎo zhū) and find me on [掘金](https://juejin.cn/user/1407794523416350/posts).
+If you happen to speak Chinese, you can also call me 小诸 and find me on [掘金](https://juejin.cn/user/1407794523416350/posts).
 
 <br/>
 
