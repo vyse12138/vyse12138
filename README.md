@@ -38,9 +38,6 @@ If you happen to speak Chinese, you can also call me 小诸 and find me on [掘�
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyse12138&layout=compact&theme=tokyonight&card_width=445" alt="Most Used Languages"/>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vyse12138&layout=compact&theme=tokyonight&langs_count=8&hide=Other,JSX" alt="Wakatime Stats"/> -->
-
-<img src="https://camo.githubusercontent.com/73cf4ee6c3e9bc9f6baf0c9629487ab814f3d27d4b60fa81366b6a4b72c7b232/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d567973653132313338266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874266c616e67735f636f756e743d3826686964653d4f746865722c4a5358" alt="Wakatime Stats"/>
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vyse12138&layout=compact&theme=tokyonight&langs_count=8&hide=Other,JSX" alt="Wakatime Stats"/>
 
 <img src="https://komarev.com/ghpvc/?username=Vyse12138&&style=flat-square" align="center" />
