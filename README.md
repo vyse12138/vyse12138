@@ -27,7 +27,8 @@ If you happen to speak Chinese, you can also call me 小诸 and find me on [掘�
 <img style="margin: 10px" src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="Three.js" height="50" />  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /> -->
 <img style="margin: 10px" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="Vite" height="50" />
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />   -->
+<img style="margin: 10px" src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" alt=".Net" height="50" />  
+<img style="margin: 10px" src="https://iconape.com/wp-content/files/km/370669/svg/370669.svg" alt="C#" height="50" />  
 </div>
 
 <br/>
