@@ -2,7 +2,7 @@
 
 I'm an honours bachelor of software engineering student from Swinburne University. My passion for software lies with dreaming up ideas and making them come true with elegant interface and great code quality.
 
-You can find out more about me on my [homepage](https://yuleiz.com/).
+You can find out more about me on my [homepage](https://yulei.me/).
 
 If you happen to speak Chinese, you can also call me 小诸 and find me on [掘金](https://juejin.cn/user/1407794523416350/posts).
 
