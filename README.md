@@ -40,7 +40,7 @@ If you happen to speak Chinese, you can also call me 小诸 and find me on [掘�
 
 ## My Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=vyse12138&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vyse12138&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" width='495'/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyse12138&layout=compact&theme=tokyonight&card_width=445" alt="Most Used Languages"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vyse12138&layout=compact&theme=tokyonight&langs_count=8" alt="Wakatime Stats"/>
 <img src="https://komarev.com/ghpvc/?username=Vyse12138&&style=flat-square" />
