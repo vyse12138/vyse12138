@@ -6,9 +6,7 @@ You can find out more about me on my [homepage](https://yulei.me/).
 
 If you happen to speak Chinese, you can also call me 小诸 and find me on [掘金](https://juejin.cn/user/1407794523416350/posts).
 
-<br/>
-
-## My Skill Set
+<!-- ## My Skill Set
 
 <div>
 <img style="margin: 10px" src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png" alt="HTML" height="50" />
@@ -31,10 +29,7 @@ If you happen to speak Chinese, you can also call me 小诸 and find me on [掘�
 <img style="margin: 10px" src="https://icon-library.com/images/bash-icon/bash-icon-24.jpg" alt="Bash" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/1280px-WebGL_Logo.svg.png" alt="WebGL" height="50" />
-</div>
-
-<!-- <img style="margin: 10px" src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" alt=".Net" height="50" /> -->
-<!-- <img style="margin: 10px" src="https://iconape.com/wp-content/files/km/370669/svg/370669.svg" alt="C#" height="50" /> -->
+</div> -->
 
 <br/>
 
